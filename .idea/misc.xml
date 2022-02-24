@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/backgroud.xml" value="0.19054054054054054" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/background_screen03.xml" value="0.165234375" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/edit_text_border.xml" value="0.165234375" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen02_lab02.xml" value="0.25" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen03_lab02.xml" value="0.19" />
       </map>
     </option>
   </component>

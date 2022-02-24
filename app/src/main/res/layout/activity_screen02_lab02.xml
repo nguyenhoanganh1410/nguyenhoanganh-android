@@ -170,7 +170,7 @@
         android:background="#03A9F4"
         android:radius="15dp"
         android:text="Gửi"
-        android:textColor="#FFFFFF"
+        android:textColor="#4A148C"
         android:textSize="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
