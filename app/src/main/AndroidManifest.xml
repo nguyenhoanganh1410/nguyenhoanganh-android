@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApp">
         <activity
+            android:name=".lab03_screen03_2"
+            android:exported="false" />
+        <activity
             android:name=".lab03_screen03_1"
             android:exported="false" />
         <activity

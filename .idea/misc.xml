@@ -5,12 +5,14 @@
       <map>
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/backgroud.xml" value="0.19054054054054054" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/background_screen03.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/button_background.xml" value="0.165234375" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/edit_text_border.xml" value="0.165234375" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab03_screen01.xml" value="0.18" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab03_screen03_2.xml" value="0.18" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen02_lab02.xml" value="0.25" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen03_lab02.xml" value="0.19" />
-        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activyty_lab03_screen03_1.xml" value="0.18" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activyty_lab03_screen03_1.xml" value="0.22" />
         <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/lab03_screen03_1.xml" value="0.153125" />
       </map>
     </option>

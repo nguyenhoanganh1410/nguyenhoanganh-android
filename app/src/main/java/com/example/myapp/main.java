@@ -10,7 +10,7 @@ public class main extends Activity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activyty_lab03_screen03_1);
+        setContentView(R.layout.activity_lab03_screen03_2);
     }
 
 //    public void handleOnClick(View v){
