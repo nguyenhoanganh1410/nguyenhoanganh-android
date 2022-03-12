@@ -25,7 +25,7 @@
             android:name=".Screen02_lab02"
             android:exported="false" />
         <activity
-            android:name=".main"
+            android:name=".active.CustomGridViewExampleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
