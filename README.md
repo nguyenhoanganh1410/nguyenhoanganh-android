@@ -3,7 +3,8 @@ Bài tập thực hành Lập trình thiết bị di động
 
 Hình ảnh kết quả các bài tập
 lab01
-![Screenshot_20220313-094546](https://user-images.githubusercontent.com/69570125/158043408-c6d398b4-0e09-4dad-b144-43875e86c10b.png)
+<img src="https://user-images.githubusercontent.com/69570125/158043408-c6d398b4-0e09-4dad-b144-43875e86c10b.png" style=" width:60px ; height:100px "  >
+
 
 lab02
 
