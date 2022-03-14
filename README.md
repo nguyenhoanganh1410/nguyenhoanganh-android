@@ -8,7 +8,8 @@
 
 
 * lab02
-
+<img src="https://user-images.githubusercontent.com/69570125/158137805-2f51a71f-08e6-43f9-9c95-d72b7f954945.png" style=" width:400px ; height:810px "  >
+<img src="https://user-images.githubusercontent.com/69570125/158137764-63bdf1ef-ca4d-42a3-a170-505a05338d74.png" style=" width:400px ; height:810px "  >
 
 * lab03
 <img src="https://user-images.githubusercontent.com/69570125/158043419-e5e1364e-86d6-4aec-9705-b56b26fb72d9.png" style=" width:400px ; height:810px "  >
