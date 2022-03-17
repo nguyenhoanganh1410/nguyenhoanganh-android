@@ -14,10 +14,10 @@ public class main extends AppCompatActivity {
     private List<Language> listLanguage;
     private ListView listView;
 
-    @Override
+   @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.home_layout);
+        setContentView(R.layout.activity_lab05_screen02);
 
 //        listView = (ListView) findViewById(R.id.idListView);
 //        listLanguage = new ArrayList<>();

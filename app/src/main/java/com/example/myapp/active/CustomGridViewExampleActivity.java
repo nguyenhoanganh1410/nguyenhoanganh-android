@@ -23,14 +23,14 @@ public class CustomGridViewExampleActivity extends AppCompatActivity {
         gridView = (GridView) findViewById(R.id.gridview);
 
         listLanguage = new ArrayList<>();
-        listLanguage.add(new Product(1, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(2, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(3, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(4, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(5, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(6, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(7, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
-        listLanguage.add(new Product(8, "Cáp chuyển từ Cổng USB sang PS2...", 16.000, "-39%", 15));
+        listLanguage.add(new Product(1, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(2, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(3, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(4, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(5, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(6, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(7, "Cáp chuyển từ Cổng USB sang PS2..."));
+        listLanguage.add(new Product(8, "Cáp chuyển từ Cổng USB sang PS2..."));
 
 
         ProductAdapter adapter = new ProductAdapter(this, R.layout.item_custom_grid_view, listLanguage);

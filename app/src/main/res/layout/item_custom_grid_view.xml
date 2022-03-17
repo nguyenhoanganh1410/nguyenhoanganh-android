@@ -97,7 +97,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
         android:layout_marginBottom="10dp"
-        android:text="69.000d"
+        android:text="69.000đ"
         android:textColor="#040404"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

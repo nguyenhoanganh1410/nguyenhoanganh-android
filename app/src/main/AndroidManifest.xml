@@ -9,8 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApp">
+<!--        <activity-->
+<!--            android:name=".lab05_screen01"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".lab03_screen03_2"
+            android:exported="false" />
+        <activity
+            android:name=".active.lab05_screen02"
             android:exported="false" />
         <activity
             android:name=".lab03_screen03_1"
@@ -25,7 +31,7 @@
             android:name=".Screen02_lab02"
             android:exported="false" />
         <activity
-            android:name=".active.CustomGridViewExampleActivity"
+            android:name=".lab05_screen01"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,5 +42,3 @@
     </application>
 
 </manifest>
-
-

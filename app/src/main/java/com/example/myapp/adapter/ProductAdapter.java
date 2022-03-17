@@ -63,9 +63,9 @@ public class ProductAdapter extends BaseAdapter {
 
         if (listLanguage != null && !listLanguage.isEmpty()) {
             tvName.setText(language.getName());
-            tvPrice.setText(String.valueOf(language.getPrice()));
-            tvDiscount.setText(language.getDiscount());
-            tvRates.setText(String.valueOf(language.getRates()));
+//            tvPrice.setText(String.valueOf(language.getPrice()));
+//            tvDiscount.setText(language.getDiscount());
+//            tvRates.setText(String.valueOf(language.getRates()));
 
 
             int idLanguage = language.getId();
@@ -74,19 +74,19 @@ public class ProductAdapter extends BaseAdapter {
                     imageView.setImageResource(R.drawable.book);
                     break;
                 case 2:
-                    imageView.setImageResource(R.drawable.book);
+                    imageView.setImageResource(R.drawable.ca_nau_lau);
                     break;
                 case 3:
-                    imageView.setImageResource(R.drawable.book);
+                    imageView.setImageResource(R.drawable.do_choi_dang_mo_hinh);
                     break;
                 case 4:
-                    imageView.setImageResource(R.drawable.book);
+                    imageView.setImageResource(R.drawable.hieu_long_con_tre);
                     break;
                 case 5:
-                    imageView.setImageResource(R.drawable.book);
+                    imageView.setImageResource(R.drawable.ga_bo_toi);
                     break;
                 case 6:
-                    imageView.setImageResource(R.drawable.book);
+                    imageView.setImageResource(R.drawable.xa_can_cau);
                     break;
                 case 7:
                     imageView.setImageResource(R.drawable.book);

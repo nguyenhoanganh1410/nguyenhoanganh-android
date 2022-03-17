@@ -27,14 +27,16 @@
         android:id="@+id/textView25"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="14dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
         android:text="Điện Thoại Vsmart Joy 3 - Hàng chính hãng"
         android:textColor="#100F0F"
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView10"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/imageView10" />
+        app:layout_constraintStart_toStartOf="@+id/imageView10"
+        app:layout_constraintTop_toBottomOf="@+id/imageView15" />
 
     <Button
         android:id="@+id/button8"
@@ -42,14 +44,14 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
         android:layout_marginEnd="25dp"
-        android:layout_marginBottom="60dp"
+        android:layout_marginBottom="28dp"
         android:background="@drawable/edit_text_border"
         android:drawableRight="@drawable/vector_left"
         android:paddingRight="10dp"
         android:text="4 MÀU-CHỌN MÀU"
         app:layout_constraintBottom_toTopOf="@+id/button7"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -166,15 +168,16 @@
 
     <ImageView
         android:id="@+id/imageView15"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="77dp"
-        android:layout_marginTop="25dp"
-        android:layout_marginEnd="76dp"
-        android:src="@drawable/vsmart_live_xanh"
+        android:layout_width="235dp"
+        android:layout_height="275dp"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="88dp"
         app:layout_constraintEnd_toEndOf="parent"
+
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/vsmart_live_xanh" />
 
 
 </android.support.constraint.ConstraintLayout>
