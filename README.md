@@ -23,4 +23,9 @@
 * lab05
 * video demo lab05
 https://user-images.githubusercontent.com/69570125/158743466-1f21c7e6-c6ac-4def-97f7-c71628c6211a.mp4
+* Hình ảnh thực hiện:
+
+| imgage     | imgage      | imgage   
+| ------------- | ------------- | --------    |
+| <img src="https://user-images.githubusercontent.com/69570125/158744247-025c5f41-ab6b-4035-84c7-8befac67911e.png" style=" width:400px ; height:810px "  >       | <img src="https://user-images.githubusercontent.com/69570125/158744254-fd4baf20-46a9-4347-97e0-60aa82d5ff31.png" style=" width:400px ; height:810px "  >         | <img src="https://user-images.githubusercontent.com/69570125/158744266-5fdf9dce-5398-498d-9a15-cd9bc4bec4a1.png" style=" width:400px ; height:810px "  >  |
 
